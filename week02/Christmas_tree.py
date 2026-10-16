@@ -1,4 +1,4 @@
-n = int(input("Enter the height of the tree: "))
+n = int(input("Enter the base width of the Christmas tree: "))
 
 if n % 2 == 0:
     n += 1  
